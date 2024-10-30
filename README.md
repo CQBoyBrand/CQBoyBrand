@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### 我的博客
-> 目前使用的静态博客，部署在 `[cloudflare](https://www.cloudflare.com/)` 上
+> 目前使用的静态博客，部署在 [cloudflare](https://www.cloudflare.com/) 上
 
 > 自己写的包含前后端，需要自己部署的博客系统，请看[Koa2-nuxt-MySQL](https://github.com/CQBoyBrand/Koa2-nuxt-MySQL)，欢迎star
 
