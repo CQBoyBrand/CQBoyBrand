@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### 我的博客
-目前使用的阿里云部署99元服务器部署， [点此领劵，新用户补贴15%](https://www.aliyun.com/minisite/goods?userCode=r2v7kr9u)
+目前使用的 [阿里云部署99元服务器](https://www.aliyun.com/minisite/goods?userCode=r2v7kr9u) 部署， 
 
 地址：[https://www.brandhuang.com](https://www.brandhuang.com);
 
