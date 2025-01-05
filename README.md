@@ -1,11 +1,17 @@
 ## Hi there 👋
 
 ### 我的博客
-> 目前使用的静态博客，部署在 [cloudflare](https://www.cloudflare.com/) 上
+目前使用的阿里云部署99元服务器部署， [点此领劵，新用户补贴15%](https://www.aliyun.com/minisite/goods?userCode=r2v7kr9u)
+
+地址：[https://www.brandhuang.com](https://www.brandhuang.com);
+
+> 静态博客，部署在 [netlify](https://www.netlify.com/) 上
+
+静态博客地址： [https://blog.brandhuang.com](https://blog.brandhuang.com);
 
 > 自己写的包含前后端和数据库，需要自己部署的博客系统，请看【[Personal-Blog-System](https://github.com/CQBoyBrand/Personal-Blog-System)】，欢迎star
 
-地址：[www.brandhuang.com](https://www.brandhuang.com);
+
 
 ### 我的公众号
 ![公众号](./brandQRcode.jpg)
